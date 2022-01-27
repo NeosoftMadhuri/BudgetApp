@@ -1,0 +1,45 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "email": "madhuri@gmail.com",
+      "pass": "Madhu@123",
+      "uname": "Madhuriambole",
+      "fname": "Madhuri",
+      "lname": "Ambole"
+    },
+    {
+      "id": 2,
+      "email": "madhuri1@gmail.com",
+      "pass": "Madhu@123",
+      "uname": "Madhuri",
+      "fname": "Madhuri",
+      "lname": "Ambole"
+    },
+    {
+      "id": 3,
+      "email": "madhuri2@gmail.com",
+      "pass": "Madhu@123",
+      "uname": "Madhuri",
+      "fname": "Madhuri",
+      "lname": "Ambole"
+    },
+    {
+      "id": 4,
+      "email": "madhuri3@gmail.com",
+      "pass": "Madhu@123",
+      "uname": "Madhuri",
+      "fname": "Madhuri",
+      "lname": "Ambole"
+    },
+    {
+      "email": "mahesh@gmail.com",
+      "fname": "Mahesh",
+      "lname": "Ambole",
+      "pass": "Mahesh@123",
+      "uname": "Maheshambole",
+      "id": 5
+    }
+    
+  ]
+}
